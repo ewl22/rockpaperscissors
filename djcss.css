@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  border: 5px solid;
+  margin: auto;
+  display: block;
+}
+
+#caption {
+  text-align: center;
+  font-weight: bold;
+}
+
+button {
+  text-align: center;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  color: black;
+}
+
+button:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
